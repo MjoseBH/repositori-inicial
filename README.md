@@ -11,7 +11,8 @@
 - [Cars](https://www.imdb.com/title/tt0317219/)
 - [Toy Story](https://www.imdb.com/title/tt0114709/)
 
-![Toy Story](https://m.media-amazon.com/images/M/MV5BMjA2NzYwNjYxNl5BMl5BanBnXkFtZTcwNTU0NTc3Mw@@._V1_.jpg)
+![Toy Story](https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg)
+
 
 
 
