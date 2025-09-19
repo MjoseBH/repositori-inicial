@@ -1,5 +1,5 @@
-# repositori-inicial
-# MjoseBH
+s hace# repositori-inicial
+# Mjose Bonete Hernandez
 
 ## Entorns de desenvolupament
 
@@ -7,9 +7,10 @@
 
 ---
 
-- [Interstellar](https://www.imdb.com/title/tt0816692/)
-- [Inception](https://www.imdb.com/title/tt1375666/)
-- [The Matrix](https://www.imdb.com/title/tt0133093/)
-- [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/)
+- [El Rey León](https://www.imdb.com/title/tt0110357/)
+- [Frozen](https://www.imdb.com/title/tt2294629/)
+- [Cars](https://www.imdb.com/title/tt0317219/)
+- [Toy Story](https://www.imdb.com/title/tt0114709/)
 
-![Top Gun: Maverick](https://m.media-amazon.com/images/M/MV5BNjYxYjYxYzUtYjY2Ny00ZTYyLTk2YjEtYjYxZDYxYjYxYjYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg)
+- ![Toy Story](https://m.media-amazon.com/images/I/81ZxjN2fJzL._AC_SL1500_.jpg)
+
